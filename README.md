@@ -1,7 +1,7 @@
 
 
 # 🔄 IDM Trial Reset Automation Guide 
-```
+```powershell
 jsut read & follow the documentation. That's it.
 ```
 
