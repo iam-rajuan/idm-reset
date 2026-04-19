@@ -1,6 +1,9 @@
 
 
-# 🔄 IDM Trial Reset Automation Guide
+# 🔄 IDM Trial Reset Automation Guide 
+```
+jsut read & follow the documentation. That's it.
+```
 
 Welcome to the professional guide for automating your IDM trial reset. This guide explains how to use PowerShell's built-in profile system to create a permanent, reusable command.
 
